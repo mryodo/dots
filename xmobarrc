@@ -1,0 +1,44 @@
+
+Config { font = "xft:lucy tewi:style=Regular:size=8,Misc Fixed Wide:style=ja:size=8,Misc Fixed Wide:style=ko:size=8"
+       , additionalFonts = []
+       , bgColor = "#0b0806"
+       , fgColor = "#a19782"
+       , alpha = 255
+       , position = Static
+            { xpos = 10
+            , ypos = 2
+            , width = 1348
+            , height = 18
+            }
+       --, position = TopW C 75
+       , textOffset = 12
+       , iconOffset = -1
+       , lowerOnStart = True
+       , hideOnStart = False
+       , allDesktops = True
+       , overrideRedirect = True
+       , pickBroadest = False
+       , persistent = False
+       , border = FullBM 0
+       , borderColor = "#2f2b2a"
+       , borderWidth = 1
+       , iconRoot = "."
+       , commands = [ Run BatteryP ["BAT1"] [ "-t", "<acstatus> @ <left>%", "-L", "10", "-H", "80", "--", "-i", "AC", "-O", "AC/Battery", "-o", "Battery", "-L", "-15", "-H", "-5"] 10
+                    --, Run BatteryP ["BAT1"] ["-t", "<acstatus>", "-L", "10", "-H", "80", "-l", "red", "-h", "green", "--", "-O", "Charging", "-o", "Battery: <left>%"] 10
+                    --, Run Volume "default" "Master" [ "-t", "Volume @ <volume>%"] 10
+                    , Run Com "/home/mryodo/.bin/vol.sh" [] "vol" 5
+                    --, Run MPD [ "-t" "<artist> - <title>"] 10
+                    , Run Kbd [ ("us", "US"), ("ru", "RU")]
+                    , Run Date "%d.%m.%y :: %A :: %H:%M" "date" 10
+                    --, Run StdinReader
+                    , Run Com "/home/mryodo/.bin/wp.sh" [] "wp" 1
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template =
+           "  \
+           \%battery% :: %vol%\
+           \}::  %wp%  ::{\
+           \%kbd% :: %date%\
+           \  "
+       }

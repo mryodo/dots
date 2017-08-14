@@ -1,0 +1,84 @@
+! special
+*.foreground:   #a19782
+*.background:   #0b0806
+*.cursorColor:  #e2c497
+
+! black
+*.color0:       #0b0806
+*.color8:       #2f2b2a
+
+! red
+*.color1:       #844d2c
+*.color9:       #a64848
+
+*.color2:       #57553a
+*.color10:      #897f5a
+
+! yellow
+*.color3:       #a17c38
+*.color11:      #c8b38d
+
+! blue
+*.color4:       #41434f
+*.color12:      #526274
+
+! magenta
+*.color5:       #6b4444
+*.color13:      #755c47
+
+! cyan
+*.color6:       #59664c
+*.color14:      #718062
+
+! white
+*.color7:       #a19782
+*.color15:      #c1ab83
+
+URxvt.underlineColor:       #c1ab83
+URxvt.cursorColor:          #844d2c
+
+URxvt.buffered:             true
+
+URxvt.saveLines:            3000
+
+URxvt.internalBorder:       7
+URxvt.lineSpace:            0
+
+URxvt.cursorUnderline:      false
+URxvt.cursorBlink:          true
+
+URxvt.scrollstyle:          plain
+URxvt.scrollBar:            false
+URxvt.scrollTtyOuput:       false
+URxvt.scrollWidthBuffer:    true
+URxvt.scrollTtyKeypress:    true
+
+URxvt.loginShell:           true
+
+URxvt.font:                 xft:lucy tewi:style=Regular:size=8,\
+                            xft:Misc Fixed:style=Regular:size=8,\
+                            xft:Misc Fixed Wide:style=ja:size=8
+URxvt.boldFont:             xft:lucy tewi:style=Bold:size=8,\
+                            xft:lucy tewi:style=Regular:size=8,\
+                            xft:Misc Fixed:style=Regular:size=8,\
+                            xft:Misc Fixed Wide:style=ja:size=8
+URxvt.italicFont:           xft:lucy tewi:style=Regular:size=8,\
+                            xft:lucy tewi:style=Regular:size=8,\
+                            xft:Misc Fixed:style=Regular:size=8,\
+                            xft:Misc Fixed Wide:style=ja:size=8
+URxvt.boldItalicFont:       xft:lucy tewi:style=Bold:size=8,\
+                            xft:lucy tewi:style=Regular:size=8,\
+                            xft:Misc Fixed:style=Regular:size=8,\
+                            xft:Misc Fixed Wide:style=ja:size=8
+
+URxvt.perl-ext:             confirm-paste
+URxvt.perl-ext-common:      default,clipboard,matcher
+
+URxvt.url-select.underline: true
+URxvt.url-launcher:         /home/free/.bin/ff
+
+URxvt.matcher.button:       1
+URxvt.matcher.rend.0:       Uline fg5
+
+URxvt.keysym.Shift-Up:      command:\033]720;1\007
+URxvt.keysym.Shift-Down:    command:\033]721;1\007

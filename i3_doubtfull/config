@@ -1,0 +1,123 @@
+set	    $super  Mod4
+
+set     $up     Up
+set     $down   Down
+set     $left   Left
+set     $right  Right
+
+set     $color_black_0      #0b0806
+set     $color_black_1      #2f2b2a
+set     $color_white_0      #a19782
+set     $color_white_1      #c1ab83
+set     $color_red          #844d2c
+set     $color_green        #57553a
+set     $color_yellow       #a17c38
+set     $color_blue         #41434f
+set     $color_magenta      #6b4444
+set     $color_cyan         #59664c
+
+set     $workspace_1    1
+set     $workspace_2    2
+set     $workspace_3    3
+set     $workspace_4    4
+set     $workspace_5    5
+set     $workspace_6    6
+set     $workspace_7    7
+set     $workspace_8    8
+set     $workspace_9    9
+set     $workspace_0    0
+
+font    pango:lucy tewi 8
+
+floating_modifier   $super
+
+new_window          pixel   1
+new_float           pixel   1
+hide_edge_borders   none
+
+gaps    inner   10
+gaps    outer   5
+
+popup_during_fullscreen smart
+focus_follows_mouse     no
+force_focus_wrapping    no
+default_orientation     horizontal
+
+client.focused              $color_white_1  $color_white_1  $color_white_1  $color_white_1
+client.focused_inactive     $color_black_1  $color_black_1  $color_black_1  $color_black_1
+client.unfocused            $color_black_1  $color_black_1  $color_black_1  $color_black_1
+client.urgent               $color_red      $color_red      $color_red      $color_red
+client.background           $color_black_0
+
+bindsym     $super+Shift+q          kill
+bindsym     $super+Shift+r          restart
+bindsym     $super+d                exec rof
+bindsym     $super+v                split v
+bindsym     $super+h                split h
+bindsym     $super+e                layout toggle split
+bindsym     $super+Return           exec /usr/bin/urxvt
+bindsym     $super+l                exec ~/.bin/dmenu
+bindsym     $super+b                exec ~/.bin/get-battery
+bindsym     $super+m                exec ~/.bin/get-music
+bindsym     $super+t                exec ~/.bin/get-time
+bindsym     $super+Shift+i          exec ~/.bin/redshifter
+bindsym     $super+p                exec ~/.bin/xshot
+bindsym     $super+Shift+s          exec ~/.bin/xcast --no-term --delay 0
+bindsym     $super+Shift+x          exec /usr/bin/pkill -f 'x11grab'
+bindsym	    XF86AudioRaiseVolume    exec --no-startup-id /usr/bin/amixer -q set 'Master' 5%+ unmute
+bindsym	    XF86AudioMute           exec --no-startup-id /usr/bin/amixer -q set 'Master' toggle
+bindsym	    XF86AudioLowerVolume    exec --no-startup-id /usr/bin/amixer -q set 'Master' 5%- unmute
+bindsym	    XF86AudioPlay           exec --no-startup-id ~/.bin/pp
+bindsym	    XF86AudioStop           exec --no-startup-id /usr/bin/mpc --no-status stop
+bindsym	    XF86AudioPrev           exec --no-startup-id /usr/bin/mpc --no-status prev
+bindsym	    XF86AudioNext           exec --no-startup-id /usr/bin/mpc --no-status next
+bindsym	    $super+$left            focus left
+bindsym	    $super+$down            focus down
+bindsym	    $super+$up              focus up
+bindsym	    $super+$right           focus right
+bindsym	    $super+Shift+$left      move left
+bindsym	    $super+Shift+$down      move down
+bindsym	    $super+Shift+$up        move up
+bindsym	    $super+Shift+$right     move right
+bindsym	    $super+Shift+space      floating toggle
+bindsym     $super+space            fullscreen toggle
+bindsym	    $super+1                workspace $workspace_1
+bindsym	    $super+2                workspace $workspace_2
+bindsym	    $super+3                workspace $workspace_3
+bindsym	    $super+4                workspace $workspace_4
+bindsym	    $super+5                workspace $workspace_5
+bindsym	    $super+6                workspace $workspace_6
+bindsym	    $super+7                workspace $workspace_7
+bindsym	    $super+8                workspace $workspace_8
+bindsym	    $super+9                workspace $workspace_9
+bindsym	    $super+0                workspace $workspace_0
+bindsym	    $super+Shift+1          move container to workspace $workspace_1
+bindsym	    $super+Shift+2          move container to workspace $workspace_2
+bindsym	    $super+Shift+3          move container to workspace $workspace_3
+bindsym	    $super+Shift+4          move container to workspace $workspace_4
+bindsym	    $super+Shift+5          move container to workspace $workspace_5
+bindsym	    $super+Shift+6          move container to workspace $workspace_6
+bindsym	    $super+Shift+7          move container to workspace $workspace_7
+bindsym	    $super+Shift+8          move container to workspace $workspace_8
+bindsym	    $super+Shift+9          move container to workspace $workspace_9
+bindsym	    $super+Shift+0          move container to workspace $workspace_0
+
+mode "resize" {
+    bindsym     $up         resize grow     height 3 px or 3 ppt
+    bindsym     $down       resize shrink   height 3 px or 3 ppt
+    bindsym     $left       resize grow     width 3 px or 3 ppt
+    bindsym     $right      resize shrink   width 3 px or 3 ppt
+
+    bindsym     Escape      mode "default"
+    bindsym     $super+r    mode "default"
+}
+bindsym     $super+r    mode "resize"
+
+assign [class="gimp"]                           $workspace_6
+assign [class="inkscape"]                       $workspace_6
+assign [class="mypaint"]                        $workspace_6
+assign [class="Firefox"]                        $workspace_3
+assign [class="mpv"]                            $workspace_5
+assign [class="qemu-system-x86_64"]             $workspace_0
+
+for_window [class="qemu-system-x86_64"]         floating enable, resize set 1280 800

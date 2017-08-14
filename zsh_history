@@ -1,0 +1,994 @@
+: 1499269162:0;urxvt
+: 1499269181:0;nvim .Xresources
+: 1499269491:0;yaourt -S phallus-fonts-git
+: 1499269669:0;cd .config
+: 1499269672:0;cd i3
+: 1499269673:0;ls
+: 1499269683:0;cd 
+: 1499269685:0;ls
+: 1499269697:0;cd .i3
+: 1499269698:0;ls
+: 1499269707:0;mv laptop config
+: 1499269708:0;ls
+: 1499269728:0;reboot
+: 1499269854:0;cd .i3
+: 1499269859:0;nvim config
+: 1499269867:0;:q
+: 1499269878:0;mv config laptop
+: 1499269888:0;mv base config
+: 1499269891:0;nvim base
+: 1499269898:0;nvim config
+: 1499270011:0;urxvtc
+: 1499270018:0;urxvt
+: 1499270025:0;reboot
+: 1499270153:0;cd .i3
+: 1499270157:0;nvim config
+: 1499270201:0;nvim confog2
+: 1499270250:0;nvim config
+: 1499270346:0;wall -i 'Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499270367:0;wall 'Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499270382:0;wall -i '~/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499270399:0;wal -i '~/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499270504:0;wal -i "~/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg"
+: 1499270509:0;wal -i "~/Downloads/Telegram Desktop/"
+: 1499270514:0;wal -i '~/Downloads/Telegram Desktop/'
+: 1499270518:0;wal -h
+: 1499270540:0;cd Downloads
+: 1499270543:0;cd Telegram\ Desktop
+: 1499270544:0;ls
+: 1499270551:0;wal -i Y0g7uKjxPnE_Unknown.jpg
+: 1499270592:0;cd .i3
+: 1499270594:0;cd
+: 1499270597:0;cd .i3
+: 1499270600:0;nvim config
+: 1499270631:0;cd
+: 1499270633:0;nvim .Xresources
+: 1499270674:0;xrdb -load .Xresources
+: 1499270682:0;urxvt
+: 1499270685:0;:q
+: 1499270688:0;nvim .Xresources
+: 1499270710:0;xrdb -load .Xresources
+: 1499270715:0;urxvt
+: 1499270717:0;:q
+: 1499270719:0;nvim .Xresources
+: 1499270752:0;xrdb -load .Xresources
+: 1499270761:0;nvim .Xresources
+: 1499270776:0;xrdb -load .Xresources
+: 1499270918:0;nvim .Xresources
+: 1499270965:0;xrdb -load .Xresources
+: 1499270970:0;urxvt
+: 1499271021:0;nvim .Xresources
+: 1499271049:0;xrdb -load .Xresources
+: 1499271062:0;nvim .Xresources
+: 1499271232:0;wal -i Y0g7uKjxPnE_Unknown.jpg
+: 1499271255:0;cd Downloads
+: 1499271258:0;cd Telegram\ Desktop
+: 1499271260:0;wal -i Y0g7uKjxPnE_Unknown.jpg
+: 1499271263:0;cd
+: 1499271266:0;nvim .Xresources
+: 1499271386:0;xrdb -load .Xresources
+: 1499271564:0;nvim .Xresources
+: 1499271583:0;xrdb -load .Xresources
+: 1499271627:0;htop
+: 1499271638:0;wal -i Y0g7uKjxPnE_Unknown.jpg
+: 1499271641:0;cd Telegram\ Desktop
+: 1499271656:0;wal -i '~/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499271669:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499271703:0;nvim .Xresources
+: 1499271758:0;xrdb -load .Xresources
+: 1499271767:0;nvim .Xresources
+: 1499271782:0;xrdb -load .Xresources
+: 1499271788:0;cd .i3
+: 1499271792:0;nvim config
+: 1499271842:0;cd .config
+: 1499271844:0;cd nvim 
+: 1499271849:0;nvim init.vim
+: 1499272190:0;cd
+: 1499272198:0;nvim .Xresources
+: 1499272245:0;cd .i3
+: 1499272256:0;nvim confog2
+: 1499272434:0;nvim config
+: 1499272982:0;reboot
+: 1499273138:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273151:0;nvim .Xresources
+: 1499273195:0;xrdb -load .Xresources
+: 1499273202:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273216:0;nvim .Xresources
+: 1499273239:0;xrdb -load .Xresources
+: 1499273247:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273256:0;xrdb -load .Xresources
+: 1499273260:0;nvim .Xresources
+: 1499273291:0;xrdb -load .Xresources
+: 1499273310:0;nvim .Xresources
+: 1499273351:0;xrdb -load .Xresources
+: 1499273363:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273376:0;nvim .Xresources
+: 1499273387:0;xrdb -load .Xresources
+: 1499273394:0;urxvt
+: 1499273399:0;nvim .Xresources
+: 1499273409:0;xrdb -load .Xresources
+: 1499273415:0;urxvt
+: 1499273417:0;:q
+: 1499273420:0;nvim .Xresources
+: 1499273439:0;xrdb -load .Xresources
+: 1499273442:0;ur
+: 1499273448:0;urxvt
+: 1499273452:0;nvim .Xresources
+: 1499273485:0;xrdb -load .Xresources
+: 1499273501:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273519:0;nvim .Xresources
+: 1499273529:0;xrdb -load .Xresources
+: 1499273534:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499273704:0;yaourt -S envypn-fong
+: 1499273714:0;yaourt -S envypn-font
+: 1499273800:0;fc-list | less
+: 1499273961:0;ls /usr/share/fonts/\
+
+: 1499273977:0;nvim .Xresources
+: 1499274041:0;xrdb -load .Xresources
+: 1499274050:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499274144:0;nvim .Xresources
+: 1499274180:0;xrdb -load .Xresources
+: 1499274189:0;nvim .Xresources
+: 1499274200:0;xrdb -load .Xresources
+: 1499274212:0;nvim .Xresources
+: 1499274220:0;xrdb -load .Xresources
+: 1499274233:0;nvim .Xresources
+: 1499274257:0;nvim .Xresources2
+: 1499274298:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499274327:0;xrdb -load .Xresources
+: 1499274339:0;nvim .Xresources2
+: 1499274345:0;nvim .Xresources
+: 1499274357:0;xrdb -load .Xresources
+: 1499274365:0;nvim .Xresources
+: 1499274379:0;xrdb -load .Xresources
+: 1499274383:0;:q
+: 1499274390:0;nvim .Xresources
+: 1499274485:0;xrdb -load .Xresources
+: 1499274515:0;nvim .Xresources
+: 1499274553:0;nvim .extend.Xresources
+: 1499274578:0;nvim .Xresources2
+: 1499274616:0;xrdb -load .Xresources
+: 1499274645:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499274685:0;nvim .Xresources
+: 1499274735:0;xrdb -load .Xresources
+: 1499274739:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499274775:0;nvim .extend.Xresources
+: 1499274831:0;nvim .Xresources
+: 1499274894:0;xrdb -load .Xresources
+: 1499274897:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499274902:0;:q
+: 1499275010:0;nvim .Xresources
+: 1499275033:0;xrdb -load .Xresources
+: 1499275041:0;urxvt
+: 1499275043:0;:q
+: 1499275045:0;nvim .Xresources
+: 1499275061:0;xrdb -load .Xresources
+: 1499275064:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499275254:0;setxkbmap -layout "us,ru"
+: 1499275272:0;setxkbmap -option "grp:caps_toggle"
+: 1499275360:0;fc-cache -fv
+: 1499275536:0;nvim .Xresources
+: 1499275558:0;xrdb -load .Xresources
+: 1499275651:0;nvim .Xresources
+: 1499275670:0;xrdb -load .Xresources
+: 1499275732:0;cd Downloads
+: 1499275747:0;git clone https://github.com/powerline/fonts.git
+: 1499275785:0;nvim .xinitrc
+: 1499275816:0;x
+: 1499276038:0;nvim .Xresources
+: 1499276070:0;xrdb -load .Xresources
+: 1499276075:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499276080:0;nvim .Xresources
+: 1499276098:0;xrdb -load .Xresources
+: 1499276113:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499276135:0;nvim .Xresources
+: 1499276159:0;xrdb -load .Xresources
+: 1499276168:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499276192:0;nvim .Xresources
+: 1499276400:0;yaourt -S rxvt-unicode-256xresources
+: 1499276466:0;yaourt -S rxvt-unicode-patched
+: 1499276494:0;yaourt -S rxvt-unicode-pixbuf
+: 1499276524:0;poybar example
+: 1499276528:0;polybar example
+: 1499276551:0;install -Dm644 /usr/share/doc/polybar/config $HOME/.config/polybar/config\
+
+: 1499276554:0;polybar example
+: 1499276587:0;yaourt -S rxvt-unicode-256xresources
+: 1499276689:0;yaourt -S rxvt-unicode-cvs-patched-wideglyphs 
+: 1499276881:0;cd .config 
+: 1499276882:0;ls
+: 1499276906:0;mkdir termite
+: 1499276912:0;cd termite
+: 1499276915:0;nimv config
+: 1499276920:0;nvim config
+: 1499276956:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499276965:0;nvim config
+: 1499276976:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499277061:0;rm -R ~/.config/temite
+: 1499277068:0;rm -R ~/.config/termite
+: 1499277073:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499277252:0;yaourt -S rxvt-unicode-cvs-patched-wideglyphs 
+: 1499277335:0;yaourt -S rxvt-unicode-patched
+: 1499277378:0;yaourt -S rxvt-unicode-cvs-patched-wideglyphs 
+: 1499277535:0;sudo pacman -Syyu
+: 1499277804:0;yaourt -S rxvt-unicode-cvs-patched-wideglyphs 
+: 1499287676:0;yaourt -S rxvt-unicode-patched
+: 1499288061:0;git clone https://aur.archlinux.org/rxvt-unicode-patched.git
+: 1499288073:0;cd rxvt-unicode-patched
+: 1499288075:0;ls
+: 1499288159:0;makepkg
+: 1499288217:0;nvim PKGBUILD
+: 1499288341:0;makepkg
+: 1499288603:0;sudo pacman -U rxvt-unicode-patched-9.22-9-x86_64.pkg.tar.xz
+: 1499288635:0;nvim .Xresources
+: 1499288659:0;xrdb -load .Xresources
+: 1499288664:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499288671:0;nvim .Xresources
+: 1499288777:0;xrdb -load .Xresources
+: 1499288784:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499288851:0;nvim .Xresources
+: 1499288862:0;xrdb -load .Xresources
+: 1499288866:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499288896:0;htop
+: 1499288954:0;nvim .Xresources
+: 1499288975:0;xrdb -load .Xresources
+: 1499288982:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499289015:0;htop
+: 1499289041:0;nvim .Xresources
+: 1499289078:0;xrdb -load .Xresources
+: 1499289086:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499289101:0;htop
+: 1499289322:0;nvim .Xresources
+: 1499289373:0;xrdb -load .Xresources
+: 1499289385:0;nvim .Xresources
+: 1499289405:0;xrdb -load .Xresources
+: 1499289412:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499289418:0;nvim .Xresources
+: 1499289435:0;xrdb -load .Xresources
+: 1499289438:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499289455:0;htop
+: 1499289492:0;sudo pacman -S ncmpcpp
+: 1499289503:0;sudo pacman -S mpd mpv
+: 1499289548:0;vol up
+: 1499289605:0;wal -i '/home/mryodo/Downloads/norkJox.jpg'
+: 1499289808:0;cd Downloads
+: 1499289816:0;nvim config.txt config
+: 1499289853:0;mv config.txt config
+: 1499290005:0;cd .config/polybar
+: 1499290006:0;ls
+: 1499290013:0;chmod +x launch.sh
+: 1499290024:0;./launch.sh
+: 1499290075:0;nvim launch.sh
+: 1499290090:0;./launch.sh
+: 1499290099:0;killall polybar
+: 1499290102:0;./launch.sh
+: 1499290109:0;polybar main_bar
+: 1499290114:0;nvim config
+: 1499290172:0;polybar main_bar
+: 1499290179:0;xrandr -q
+: 1499290186:0;nvim config
+: 1499290211:0;polybar main_bar
+: 1499290470:0;cd
+: 1499290473:0;cd .i3
+: 1499290475:0;nvim config
+: 1499290602:0;cd .config/polybar
+: 1499290604:0;nvim config
+: 1499290614:0;nvim .Xresources
+: 1499290684:0;wal -i '/home/mryodo/Downloads/Telegram Desktop/Y0g7uKjxPnE_Unknown.jpg'
+: 1499290708:0;nvim .Xresources
+: 1499290861:0;cd .config/nvim
+: 1499290864:0;nvim init.vim
+: 1499290934:0;cd 
+: 1499290939:0;cd .cache/wal
+: 1499290940:0;ls
+: 1499290958:0;nvim colors.xresources
+: 1499291094:0;xrdb -load .Xresources
+: 1499291104:0;nvim colors.xresources
+: 1499291118:0;nvim .Xresources
+: 1499291129:0;xrdb -load .Xresources
+: 1499291151:0;wal -i '/home/mryodo/Downloads/norkJox.jpg'
+: 1499291163:0;poybar main_bar
+: 1499291174:0;polybar main_bar
+: 1499291189:0;cd .cache/wal
+: 1499291191:0;nvim colors.xresources
+: 1499291233:0;nvim config
+: 1499291242:0;cd .config/polybar
+: 1499291244:0;nvim config
+: 1499291280:0;polybar main_bar
+: 1499291310:0;wal -i '/home/mryodo/Downloads/norkJox.jpg'
+: 1499291318:0;polybar main_bar
+: 1499291330:0;wal -i '/home/mryodo/Downloads/norkJox.jpg'
+: 1499291344:0;nvim config
+: 1499291439:0;polybar main_bar
+: 1499291501:0;sudo pacman -S ttf-hack
+: 1499291517:0;sudo pacman -S ttf-hack-powerline-git
+: 1499291541:0;sudo pacman -S ttf-font-awesome
+: 1499291553:0;yaourt -S ttf-font-awesome
+: 1499291573:0;polybar main_bar
+: 1499291608:0;yaourt -S ttf-hack-powerline-git
+: 1499291677:0;cd
+: 1499291691:0;cd .config/nvim
+: 1499291695:0;cd
+: 1499291697:0;cd .config/nvim
+: 1499291775:0;nvim init.vim
+: 1499292168:0;nvim config
+: 1499292398:0;cd
+: 1499292403:0;cd .cache/wal
+: 1499292404:0;ls
+: 1499292413:0;cd schemes
+: 1499292414:0;ls
+: 1499292420:0;:q
+: 1499292428:0;nvim colors.sh
+: 1499292433:0;cd ..
+: 1499292434:0;nvim colors.sh
+: 1499297506:0;wal -i '/home/mryodo/Downloads/HYLYhaH.jpg'
+: 1499297529:0;polybar main_bar
+: 1499297602:0;nvim .zshrc
+: 1499297649:0;echo $color0
+: 1499297678:0;echo $background
+: 1499297682:0;echo $bg
+: 1499297699:0;nvim $HOME/.cache/wal/colors.sh
+: 1499297774:0;echo ${xrdb:background}
+: 1499297793:0;echo ${xrdb:URxvt.background}
+: 1499297805:0;echo ${xrdb:color0}
+: 1499332825:0;setxkbmap -option "grp:caps_toggle"
+: 1499332830:0;setxkbmap -layout "us,ru"
+: 1499348092:0;nvim .Xresources
+: 1499348113:0;xrdb -load .Xresources
+: 1499348126:0;nvim .Xresources
+: 1499348690:0;nm con up hse
+: 1499348696:0;nmcli con up hse
+: 1499349423:0;nvim init.vim
+: 1499349675:0;htop
+: 1499349703:0;nvim .Xresources
+: 1499349755:0;xrdb -load .Xresources
+: 1499349760:0;htop
+: 1499350816:0;nmcli con up 307
+: 1499352438:0;nvim init.vim
+: 1499361535:0;mpd
+: 1499361542:0;:q
+: 1499361549:0;ncmpcpp
+: 1499379026:0;sudo pacman -S lemonbar
+: 1499379044:0;bar
+: 1499380293:0;sudo pacman -S mplayer
+: 1499380355:0;ranger
+: 1499381528:0;nmcli con up 307
+: 1499452780:0;sudo pacman -S okular
+: 1499460548:0;nmcli con up 307
+: 1499460552:0;nmcli con up hse
+: 1499462162:0;cd .i3
+: 1499462165:0;nvim config
+: 1499462344:0;htop
+: 1499462491:0;sudo pacman -S i3ipc-glib
+: 1499462520:0;yaourt -s i3ipc-glib
+: 1499462550:0;sudo pacman -S i3ipc-glib
+: 1499462557:0;sudo pacman -S i3ipc-glib-git
+: 1499462562:0;yaourt -s i3ipc-glib-git
+: 1499462657:0;nvim i3ipc_hideshow_border
+: 1499462679:0;cd .i3
+: 1499462681:0;nvim config
+: 1499463236:0;cd .i3
+: 1499463238:0;nvim config
+: 1499464165:0;nmcli con up 307
+: 1499465291:0;setxkbmap -layout "us,ru"
+: 1499465296:0;setxkbmap -option "grp:caps_toggle"
+: 1499466058:0;cd .i3
+: 1499466060:0;nvim config
+: 1499466446:0;nvim
+: 1499466510:0;nvim config
+: 1499467606:0;wal -i '/home/mryodo/Downloads/v0yOJ.png'
+: 1499467910:0;sudo pacman -S beets
+: 1499468058:0;sudo pacman -S xmonad xmonad-contrib
+: 1499468276:0;sudo pacman -S xmodmpa
+: 1499468278:0;sudo pacman -S xmodmap
+: 1499468324:0;sudo pacman -S xorg-xmodmap
+: 1499468384:0;sudo pacman -S zathura zathura-pdf-poppler
+: 1499468452:0;sudo pacman -S taskwarrior
+: 1499468478:0;sudo pacman -S task
+: 1499468549:0;sudo pacman -S redshift
+: 1499468576:0;sudo pacman -S gnupg
+: 1499468607:0;sudo pacman -S ghc
+: 1499468620:0;sudo pacman -S conky
+: 1499468645:0;sudo pacman -S cabal
+: 1499468696:0;cd Documents
+: 1499468718:0;git clone https://github.com/azahi/dotfiles.git xmo
+nv .zsh_history
+cd .zsh
+nv 10-environment.zsh
+reload
+cd
+cd Downloads
+nvim config\ \(1\)
+mpd
+cd .mpd
+mkdir .mpd
+nv mpd.conf
+nvim
+nv mpd.conf
+cd
+cd .config
+cd ncmpcpp
+ls
+nvim config
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+sudo pacman -S libnotify python python2-pyinotify python2-pip python2-gobject\
+
+yaourt -S libappindicator-gtk3
+sudo pip2.7 install --upgrade google-api-python-client
+cd Downloads
+sudo pacman -U overgrive-3.2.x-0-any.pkg.tar.xz\
+
+sudo pacman -U overgrive-3.2.3-0-any.pkg.tar.xz\
+
+sudo glib-compile-schemas /usr/share/glib-2.0/schemas\
+
+bmenu
+cd .i3
+nvim confog2
+nvim .gtkrc-2.0
+cd .config
+cd gtk-2.0
+cd ..
+cd gtk-3.0
+nvim settings.ini
+nvim settings.ini
+cd 
+nvim .gtkrc-2.0
+cd gdrive
+cd-drive
+r
+cd gdrive
+cd .zsh
+mv a-50-completion.zsh 50-completion.zsh
+reload
+cd
+cd gdrive
+nmcli con up hse
+nmcli con up 3-7
+nmcli con up 307
+nmcli con up 307
+sudo pacman -S typora
+yaourt -S typora
+typora
+r
+r
+nmcli con up hse
+cd .config/nvim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim init.vim
+nvim
+nvim init.vim
+nvim init.vim
+cd 
+cd gdrive
+cd math.biology.dieckmann
+cd nonlinSolver2sp
+cd report_temp
+ls
+nvim rep.tex
+ranger
+r
+cd gdrive/math.biology.dieckmann/nonlinSolver2sp/report_temp
+nvim rep.tex
+nvim rep.tex
+nvim rep.tex
+nvim rep.tex
+nmcli con up 307
+cd Documents
+git clone https://github.com/elementary/appcenter.git
+cd appcenter
+mkdir build
+cd build
+cmake -DCMAKE_INSTALL_PREFIX=/usr ..
+sudo pacman -S packagekit
+sudo pacman -S appstream
+cmake -DCMAKE_INSTALL_PREFIX=/usr ..
+sudo pacman -S vala
+sudo pacman -S elementary-sdk
+echo $CMAKE_PREFIX_PATH
+r
+nmcli con up hse
+nm-tool | grep \*
+nmcli -t -f active,ssid dev wifi
+nmcli dev wifi list
+cd .config/nvim
+nvim init.vim
+cd
+cd gdrive/math.biology.dieckmann/nonlinSolver2sp/report_temp
+nvim rep.tex
+cd
+cd .config/nvim
+nvim init.vim
+cd
+cd gdrive/math.biology.dieckmann/nonlinSolver2sp/report_temp
+nvim init.vim
+nvim rep.tex
+nvim rep.tex
+nvim ~/.config/mimeapps.list
+nvim.desktop
+r
+cd gdrive/math.biology.dieckmann/nonlinSolver2sp/report_temp
+nvim rep.tex
+nmcli con up 307
+sudo pacman -S qute-browser
+sudo pacman -S qutebrowser
+sudo nv /etc/default/mpd
+sudo nvim /etc/default/mpd
+sudo nvim /etc/default/mpd
+
+
+mpd
+sudo mpd
+killall mpd
+sudo killall mpd
+sudo pacman -S mpdscribble
+yaourt -S mpdscribble
+sudo service mpd stop
+sudo systemctl disable mpd.service
+cd .config
+mkdir ~/.config/mpd
+mkdir ~/.local/share/mpd
+rm -R ~/.mpd
+gzip -dc /usr/share/doc/mpd/examples/mpdconf.example.gz > ~/.config/mpd/mpd.conf
+mkdir ~/Music/Playlists
+cd mpd
+nvim mpd.conf
+mpd
+nvim mpd.conf
+mpd
+tail ~/.local/share/mpd/mpd.log
+ncmpcpp
+cd ..
+cd ncmpcpp
+nvim config
+ncmpcpp
+r
+mpd
+sudo lsof -i :6600
+sudo systemctl restart mpd\
+
+cd .config/mpd
+nvim mpd.conf
+sudo systemctl restart mpd\
+
+sudo systemctl status mpd.ser\
+
+ncmpcpp
+rm -R ~/.ncmpcpp
+ncmpcpp
+ncmpcpp
+sudo systemctl restart mpd
+sudo systemctl status mpd.service
+ncmpcpp
+mpd
+ncmpcpp
+cd .config/ncmpcpp
+nvim config
+ncmpcpp
+nvim config
+nvim config
+ncmpcpp
+\:wqa
+nvim config
+sudo pacman -S w3m
+sudo pacman -S w3m-img
+r
+yaourt -S urxvt-unicode-pixbuf
+yaourt -S rxvt-unicode-pixbuf
+yaourt -S rxvt-unicode-pixbuf
+r
+alsamixer
+sudo nvim /etc/modprobe.d/alsa-base.conf
+r
+r
+amixer set Master toggle\
+
+amixer set Master toggle\
+
+amixer set Headphone toggle\
+
+amixer set Master toggle\
+
+amixer set Headphone toggle\
+
+amixer set Headphone toggle\
+
+amixer set Master toggle\
+
+amixer set Headphone toggle\
+
+amixer set Headphone toggle\
+
+amixer set Master toggle\
+
+amixer set Master toggle\
+
+amixer set Headphone toggle\
+
+amixer set Speaker toggle\
+
+alsamixer
+alsamixer
+cd Documents
+git clone https://github.com/dahenson/agenda.git
+cd agenda
+mkdir build
+cd build
+cmake .. -DCMAKE_INSTALL_PREFIX=/usr
+make
+make
+yaourt -S appcenter-bzr
+yaourt -S cmake-elementary-bzr
+yaourt -S cmake-elementary-bzr
+cd Documents
+cd agenda
+make
+cd build
+make
+sudo pacman -Syyu
+build
+cmake .. -DCMAKE_INSTALL_PREFIX=/usr
+make
+cd
+cd Documents
+git clonehttps://github.com/lainsce/notejot.git
+git clone https://github.com/lainsce/notejot.git
+cd notejot
+meson build
+cd build
+mesonconf -Dprefix=/usr
+sudo ninja install
+amixer set Speaker toggle\
+
+yaourt -S pepper-flash
+yaourt -S flashplugin
+yaourt -S freshplayerplugin
+sudo pacman -S vimb
+yaourt -S vimb-git
+sudo pacman -S tabbed
+man vimb
+mplayer
+cd Videos
+mplayer 12312.mp4
+cd Videos
+mplayer 12312.mp4
+mplayer 6608.mp4
+nmcli con show
+nmcli con show
+nmcli dev status
+nmcli con add con-name dlink ifname wlp2s0 type wifi ssid dlink
+nmcli con modify dlink wifi-sec.key-mgmt wpa-psk
+nmcli con modify MyCafe wifi-sec.psk 12121212
+nmcli con modify dlink wifi-sec.psk 12121212
+nmcli con up dlink
+nmcli dev wifi list
+nmcli radio wifi on
+nmcli radio wifi on
+nmcli dev wifi list
+nmcli con up dlink
+sudo pacman -S playonlinux
+sudo pacman -S libreoffice
+sudo pacman -S xbacklight
+sudo pacman -S sorg-xbacklight
+sudo pacman -S xorg-xbacklight
+xbacklight -set 10
+xbacklight -set 1
+xbacklight -set 0
+xbacklight -set 1
+xbacklight -set 33
+xbacklight -set 1
+xbacklight -set 33
+xbacklight -set 25
+xbacklight -set 20
+xbacklight -set 10
+xbacklight -set 1
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+sudo pacman -S jupyter-notebook
+sudo pacman -S --force jupyter-notebook
+sudo pacman -S mathjax
+xbacklight -set 1
+xbacklight -set 10
+xbacklight -set 20
+xbacklight -set 100
+xbacklight -set 150
+xbacklight -set 200
+xbacklight -set 20
+xbacklight -set 20
+xbacklight -set 1
+xbacklight -set 2
+xbacklight -set 5
+xbacklight -set 100
+xbacklight -set 20
+xbacklight -set 2
+xbacklight -set 5
+cd gdrive/sun.activity
+git add .
+git commit -m "Extr: clean"
+git push -u origin master
+xbacklight -set 5
+xbacklight -set 100
+cd gdrive/sun.activity
+git add ,
+git add .
+git commit -m "Extr: base"
+git config --global user.name mryodo
+git config --global user.email a.s.savostyanov@gmail.com
+git commit -m "Extr: base"
+git push -u origin master
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C a.s.savostyanov@gmail.com\
+
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+xclip -sel clip < ~/.ssh/id_rsa.pub
+sudo pacman -S xclip
+xclip -sel clip < ~/.ssh/id_rsa.pub
+git push -u origin master
+cd .config/zathura
+nvim zathurarc
+mv zathurarc zathurarc2
+cd gdrive/sun.activity
+git add .
+git commit -m "Extr: base-add"
+git push -u origin master
+xbacklight -set 5
+nmcli wifi radio off
+nmcli radio wifi off
+xbacklight -set 100
+nmcli radio wifi on
+r
+cd Videos
+cd Dirk\ Gently\'s\ Holistic\ Detective\ Agency\ Season\ 1\ HD\ 720p\ \[N-Team\]
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E01.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E02.720p\ \[N-Team\].mkv
+nmcli con up 3-7
+nmcli con up 307
+nmcli con up hse
+nmcli con up 307
+xbacklight -set 5
+xbacklight -set 100
+nmcli con up hse
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+nmcli radio wifi off
+nmcli radio wifi on
+nmcli con up 307
+nmcli con up 307
+wal -i '/home/mryodo/Downloads/v0yOJ.png'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+htop
+nmcli con up 307
+nmcli con up hse
+cd Videos
+cd Dirk\ Gently\'s\ Holistic\ Detective\ Agency\ Season\ 1\ HD\ 720p\ \[N-Team\]
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E02.720p\ \[N-Team\].mkv -subcp latin1
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E02.720p\ \[N-Team\].mkv -subcp cp1251
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E02.720p\ \[N-Team\].mkv -subcp cp1250
+cd 
+cd Videos
+cd Dirk\ Gently\'s\ Holistic\ Detective\ Agency\ Season\ 1\ HD\ 720p\ \[N-Team\]
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E02.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E03.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E03.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E04.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E04.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E04.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E05.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E05.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E05.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E06.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E06.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E07.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E07.720p\ \[N-Team\].mkv
+mplayer Dirk.Gentlys.Holistic.Detective.Agency.S01E08.720p\ \[N-Team\].mkv
+nmcli con up 307
+nmcli con up hse
+nmcli con up 307
+nmcli con up 307
+wal -i '/home/mryodo/Downloads/v0yOJ.png'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+nmcli con up hse
+nmcli con up 307
+cd Downloads
+mplayer 5747.mp4
+xpdyinfo | grep -B 2 resolution.
+sudo pacman -S xdpyinfo
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+nmcli con up 307
+xbacklight -set 5
+xbacklight -set 100
+polybar right
+polybar left
+polybar right
+xrandr -q
+poybar main
+polybar main
+polybar main_bar
+polybar example
+cd .config/polybar
+ls
+nvim config
+mv config config3
+mv config2 config
+poybar main
+polybar main
+polybar main_bar
+nvim config
+polybar example
+polybar example
+nmcli con up hse
+nmcli con up 307
+cd gdrive/sun.activity
+git pull
+git pull
+cd gdrive/sun.activity
+git add .
+git commit -m "Extr: plotters"
+git push -u origin master
+poybar example
+nmcli con up vestnik
+wal -i '/home/mryodo/Downloads/v0yOJ.png'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+r
+sudo pacman -S vlc
+cd Videos
+cd Ѓ�ассказ\ слу�жанки\ \(сезон\ 1\)\ The\ Handmaid\'s\ Tale\ \(2017\)\ WEBRip\ -\ LostFilm
+vlc The.Handmaid\'s.Tale.S01E01.WEBRip.Rus.Eng.DV.LostFilm.avi
+nmcli con up 307
+xbacklight -set 5
+nmcli radio wifi off
+cd Videos
+cd Ѓ�ассказ\ слу�жанки\ \(сезон\ 1\)\ The\ Handmaid\'s\ Tale\ \(2017\)\ WEBRip\ -\ LostFilm
+vlc The.Handmaid\'s.Tale.S01E03.WEBRip.Rus.Eng.DV.LostFilm.avi
+vlc The.Handmaid\'s.Tale.S01E04.WEBRip.Rus.Eng.DV.LostFilm.avi
+vlc The.Handmaid\'s.Tale.S01E10.WEBRip.Rus.Eng.DV.LostFilm.avi
+vlc The.Handmaid\'s.Tale.S01E04.WEBRip.Rus.Eng.DV.LostFilm.avi
+vlc The.Handmaid\'s.Tale.S01E05.WEBRip.Rus.Eng.DV.LostFilm.avi
+nmcli radio wifi on
+xbacklight -set 5
+xbacklight -set 20
+xbacklight -set 5
+xbacklight -set 20
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+xbacklight -set 20
+xbacklight -set 100
+mpd
+ncmpcpp
+sudo pacman -Syuu
+sudo pacman -Syyu
+wal -i '/home/mryodo/Downloads/v0yOJ.png'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+figlet
+sudo pacman -S bdf-tewi-
+sudo pacman -S bdf-tewi
+sudo pacman -S bdf-tewi-git
+yaourt -S bdf-tewi-git
+cd .i3
+nvim config
+nvim config
+xbacklight -set 20
+wal -i '/home/mryodo/Downloads/v0yOJ.png'
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+ncmpcpp
+mpd
+nc
+ncm
+ncmpcpp
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+mpd
+ncmpcpp
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+xbacklight -set 100
+htop
+xbacklight -set 100
+sudo pacma -S tor-browser
+sudo pacman -S tor-browser
+sudo pacman -S tor-browser-en
+yaourt -S tor-browser
+xbacklight -set 20
+xmobar
+xbacklight -set 100
+xmobar
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+mpd
+ncmpcpp
+xbacklight -set 20
+xbacklight -set 20
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+mpd
+ncmpcpp
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+xbacklight -set 100
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+htop
+xbacklight -set 20
+xmobar
+xmobar
+xbacklight -set 20
+xmobar
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+sudo pacman -S st
+st
+cd Documents
+git clone https://github.com/krypt-n/bar
+cd bar
+make
+sudo make install
+lemonbar
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+xbacklight -set 20
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+w
+w
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+xbacklight -set 20
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -option "grp:caps_toggle"
+setxkbmap -layout "us,ru"
+htop
+xbacklight -set 20
+polybar example
+nmcli radio wifi on
+nmcli con up 307
+nmcli con up dlink
+wal -i '/home/mryodo/Downloads/lee-aik-soon-39276.jpg'
+setxkbmap -layout "us,ru"
+setxkbmap -option "grp:caps_toggle"
+htop
+sudo gparted
